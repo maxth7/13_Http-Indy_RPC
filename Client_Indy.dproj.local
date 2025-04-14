@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.545,E:\02_myProjects\00_qtPet\04_SOUP\03_SoupBankAccountSourceEmbarc\IdHTTP_Client\Client_Indy.dproj=E:\02_myProjects\06 DelphyPrg\pr02_class\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,E:\02_myProjects\00_qtPet\04_SOUP\03_SoupBankAccountSourceEmbarc\IdHTTP_Client\Unit1.dfm=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,E:\02_myProjects\00_qtPet\04_SOUP\03_SoupBankAccountSourceEmbarc\IdHTTP_Client\Unit1.pas=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,E:\02_myProjects\00_qtPet\05_idHTTP+Indy\05_SoapBA01\IdHTTP_Client\Client_Indy.dproj=E:\02_myProjects\00_qtPet\05_idHTTP+Indy\05_SoapBA01\IdHTTP_Client\Client_Indy.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
